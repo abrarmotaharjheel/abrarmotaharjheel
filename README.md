@@ -7,8 +7,6 @@ In this learning phase, I aim to blend technical knowledge with practical skills
 
 Skills: C / C++ / HTML5
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarmotaharjheel&label=Profile%20views&color=0e75b6&style=flat" alt="abrarmotaharjheel" /> </p>
-
 - 📫 How to reach me: Here is my email, abrarmotaharjheel@gmail.com 
 
 </p>
@@ -19,7 +17,7 @@ Skills: C / C++ / HTML5
 <a href="https://linkedin.com/in/abrar-motahar-jheel-092b412aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abrar-motahar-jheel-092b412aa" height="30" width="40" /></a>
 <a href="https://twitter.com/abrar_jhee1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abrar_jhee1" height="30" width="40" /></a>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarmotaharjheel&label=Profile%20views&color=0e75b6&style=flat" alt="abrarmotaharjheel" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrarmotaharjheel&show_icons=true&locale=en" alt="abrarmotaharjheel" /></p>
 
