@@ -7,6 +7,8 @@ In this learning phase, I aim to blend technical knowledge with practical skills
 
 Skills: C / C++ / HTML5
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarmotaharjheel&label=Profile%20views&color=0e75b6&style=flat" alt="abrarmotaharjheel" /> </p>
+
 - 📫 How to reach me: Here is my email, abrarmotaharjheel@gmail.com 
 
 </p>
@@ -19,6 +21,6 @@ Skills: C / C++ / HTML5
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abrarmotaharjheel&show_icons=true)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrarmotaharjheel&show_icons=true&locale=en" alt="abrarmotaharjheel" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=abrarmotaharjheel)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrarmotaharjheel&" alt="abrarmotaharjheel" /></p>
