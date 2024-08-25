@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Abrar Motahar Jheel
-#### CSE Undergraduate 
+#### CSE UNDERGRADUATE 
 
 Currently pursuing a Bachelor’s degree in Computer Science and Engineering at United International University, where I’m laying a strong foundation in technology. As I continue my studies, I’m passionate about exploring Software & Web Development AI, cybersecurity, and data analytics—areas I plan to specialize in as I advance in my career.
 
