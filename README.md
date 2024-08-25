@@ -16,8 +16,3 @@ Skills: C / C++ / HTML5
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abrarmotaharjheel&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=abrarmotaharjheel)  
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrarmotaharjheel&show_icons=true&locale=en&layout=compact" alt="abrarmotaharjheel" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrarmotaharjheel&show_icons=true&locale=en" alt="abrarmotaharjheel" /></p>
