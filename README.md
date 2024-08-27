@@ -1,4 +1,3 @@
-<html><head><meta name="google-site-verification" content="y-Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I" /></head></html>
 ### Hi there 👋, I'm Abrar Motahar Jheel
 #### CSE UNDERGRADUATE 
 
